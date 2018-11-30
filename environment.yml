@@ -4,9 +4,6 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - numpy
   - bokeh
-  - pip:
-    - pandas
-    - matplotlib
+
 
