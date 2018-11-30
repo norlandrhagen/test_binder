@@ -5,7 +5,8 @@ channels:
 dependencies:
   - python
   - numpy
+  - bokeh
   - pip:
     - pandas
     - matplotlib
-    - bokeh
+
