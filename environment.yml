@@ -1,9 +1,16 @@
-name: example-environment
 channels:
-  - defaults
   - conda-forge
 dependencies:
+  - python
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
   - bokeh
+  - dask
   - unixodbc
   - freetds
   - pip:
