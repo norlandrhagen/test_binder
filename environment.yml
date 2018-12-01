@@ -7,4 +7,3 @@ dependencies:
   - freetds
   - pip:
     - opedia
-    - pymssql
