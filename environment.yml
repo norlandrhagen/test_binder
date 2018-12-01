@@ -1,8 +1,10 @@
 name: example-environment
 channels:
+  - defaults
   - conda-forge
 dependencies:
   - bokeh
   - unixodbc
+  - freetds
   - pip:
     - opedia
