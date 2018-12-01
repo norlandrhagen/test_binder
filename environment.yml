@@ -4,6 +4,6 @@ channels:
 dependencies:
   - bokeh
   - unixodbc
-  - -c anaconda freetds 
   - pip:
     - opedia
+    - pymssql
