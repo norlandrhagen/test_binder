@@ -1,3 +1,4 @@
+name: example-environment
 channels:
   - conda-forge
 dependencies:
@@ -5,7 +6,4 @@ dependencies:
   - numpy
   - pandas
   - bokeh
-  - unixodbc
-  - freetds
-  - pip:
-    - opedia
+  - folium
